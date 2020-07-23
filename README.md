@@ -1,17 +1,11 @@
 
-# Olá sou Eliseu Oliveira 👋
+# Eliseu Oliveira 👋
 
 ### Tecnologias Usadas:
-- [X] HTML/5.1
-- [X] CSS3/4
-- [X] JavaScript
-- [X] ECMAScript 6/7/8
-- [X] NodeJS
-- [ ] Dart
-- [ ] Flutter
-- [X] MySQL
-- [x] PostgreSQL
-- [x] WordPress
+- [X] FrontEnd
+- [X] BackEnd
+- [X] Mobile
+- [X] DBA
 
 ### Formação
 1. Analise em desenvolvimento de Sistemas (Cursando)
